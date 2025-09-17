@@ -1,0 +1,90 @@
+==============================================================================
+DEPENDÊNCIAS DO PROJETO DE CLASSIFICAÇÃO DE GÊNERO
+==============================================================================
+Para recriar este ambiente, execute: pip install -r requirements.txt
+------------------------------------------------------------------------------
+Core de ML/DL e Visão Computacional
+tensorflow==2.16.1
+opencv-python==4.9.0.80
+scikit-learn==1.4.2
+
+Manipulação e Análise de Dados
+pandas==2.2.2
+numpy==1.26.4
+
+Visualização de Dados
+matplotlib==3.8.4
+seaborn==0.13.2
+
+Ambiente de Desenvolvimento e Experimentação
+jupyterlab==4.2.0
+
+MLOps - Rastreamento de Experimentos
+mlflow==2.13.0
+
+Dependências transitórias (instaladas automaticamente)
+As versões abaixo são um exemplo e serão geradas pelo comando pip freeze
+absl-py==2.1.0
+astunparse==1.6.3
+blinker==1.8.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+cli-helpers==2.3.0
+click==8.1.7
+colorama==0.4.6
+configobj==5.0.8
+contourpy==1.2.1
+cycler==0.12.1
+databricks-cli==0.18.0
+docker==7.1.0
+entrypoints==0.4
+flatbuffers==24.3.25
+fonttools==4.51.0
+gast==0.5.4
+gitdb==4.0.11
+GitPython==3.1.43
+google-pasta==0.2.0
+grpcio==1.64.0
+h5py==3.11.0
+idna==3.7
+importlib-metadata==7.1.0
+Jinja2==3.1.4
+keras==3.3.3
+kiwisolver==1.4.5
+libclang==18.1.1
+markdown==3.6
+Markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+mdurl==0.1.2
+ml-dtypes==0.3.2
+namex==0.0.8
+opt-einsum==3.3.0
+packaging==24.0
+Pillow==10.3.0
+prometheus-client==0.20.0
+prompt-toolkit==3.0.42
+protobuf==4.25.3
+pyarrow==16.1.0
+Pygments==2.18.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pywin32==306
+PyYAML==6.0.1
+pyzmq==26.0.3
+querystring-parser==1.2.4
+requests==2.32.3
+rich==13.7.1
+scipy==1.13.0
+six==1.16.0
+smmap==5.0.1
+sqlalchemy==2.0.30
+sqlparse==0.5.0
+tabulate==0.9.0
+termcolor==2.4.0
+tf-keras==2.16.0
+typing_extensions==4.12.0
+urllib3==2.2.1
+wcwidth==0.2.13
+werkzeug==3.0.3
+wrapt==1.16.0
+zipp==3.18.1
